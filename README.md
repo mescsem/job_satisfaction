@@ -1,7 +1,5 @@
 # Reimagining the Future of Work: Predicting Job Satisfaction of the Changing Workforce
 
-The goal of this project is to analyze what drives “attractiveness” in the popular CelebA dataset, understanding how these beauty standards are embedded within and reflected into the field of Machine Learning in general, and performing a critical analysis of results - considering not only the technological but also the societal, cultural and ethical associations and implications of findings.
-
 ## Abstract
 
 The US workforce today faces pressing challenges such as decreasing participation and high turnover despite the substantial unmet talent demand in the job market. Much evidence has pointed to people’s dissatisfaction with jobs underlying these trends. What constitutes a good job? While individuals may have different definitions, there are potentially universal criteria pointing to workplace satisfaction and overall happiness in life. The project uses the National Study of the Changing Workforce 2016 survey, a nationally representative survey of U.S. workers that includes diverse information on essential dimensions of work and life. Important contributing factors to a productive and happy workforce for the future are identified using the decision tree algorithm, with a prediction accuracy of 0.60. Valuable insights will be offered by our research findings to address the most critical challenges in today's talent development, retention, and engagement at both policy and organizational levels.
